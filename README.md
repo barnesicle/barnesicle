@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luke Barnes
+===================================================================================================================================
+
+Full Stack Software Engineer
+----------------------------
+
+Results-driven Full-Stack Software Engineer with over 10 years of professional experience in agile methodologies, software design, object-oriented programming, and testing mission-critical payment applications. Possesses extensive knowledge and experience in Java, the Spring framework, React.js, microservices, JavaScript, TypeScript, and NoSQL databases.
+
+* 🌍  I'm based in Minnesota, USA
+* 🖥️  See my portfolio at [lukebarnes.dev](http://lukebarnes.dev/)
 
 <!--
 **barnesicle/barnesicle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
